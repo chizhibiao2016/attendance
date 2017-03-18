@@ -1,0 +1,4 @@
+<ion-view>
+    <ion-list>
+    </ion-list>
+</ion-view>
